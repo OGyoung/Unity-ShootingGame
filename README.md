@@ -18,3 +18,7 @@
 * 무적(공격속도, 3초간 무적)
   * R키
  
+
+## 사용한 자료
+- AssetStroe에서 무료로 제공하는 아이템 사용
+  - [파티클]https://assetstore.unity.com/packages/vfx/particles/fire-explosions/procedural-fire-141496
