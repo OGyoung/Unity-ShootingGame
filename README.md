@@ -32,3 +32,8 @@
 ## 작성한 코드
 - [code](https://github.com/OGyoung/Unity-ShootingGame/tree/main/Assets/coding)
   - [보스몬스터 체력](https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/BossHealth.cs)
+  - [보스 및 플레이어 총알 자동삭제](https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/Destroy_Self.cs)
+  - [패배 시 장면전환](https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/Lose_scene.cs)
+    - 클릭 시 첫화면으로 돌아가서 다시 
+  
+  
