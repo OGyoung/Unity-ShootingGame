@@ -1,9 +1,9 @@
 # Unity_ShootingGame
-학부생 한명과 함께 2인개발
 4방향에서 나오는 몬스터들을 물리치면서 보스 거미 몬스터를 물리치는 게임
 StoneMonster는 불을 내뿜으면서 달려들고 ZomBunny는 달려들기만 한다.
 보스몬스터는 위 아래로 독을 내뿜는다.
 플레이어는 궁극기, 쉴드를 갖고있다.(쉴드는 시간이 지나면 계속 채워진다)
+보스몬스터를 잡으면 게임승리
 
 ## 승리 장면
 ![승리](https://user-images.githubusercontent.com/52282493/106029265-429eb380-6110-11eb-8719-cd0f9174f855.gif)
@@ -64,3 +64,7 @@ StoneMonster는 불을 내뿜으면서 달려들고 ZomBunny는 달려들기만 
   - [테스트 한다고 만들었던 코드]
     - https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/UI.cs 
     - https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/target_move.cs
+
+## 후기
+2019년에 학부생 1명과 10월 말에 주제를 정하고 11월부터 작업을 같이했습니다.
+그 때는 깃허브를 사용하지 않고 압축파일로 서로 메일로 주고 받으면서 했는데 많이 뒤섞인 느낌이 납니다.
