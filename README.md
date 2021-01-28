@@ -20,5 +20,9 @@
  
 
 ## 사용한 자료
-- AssetStroe에서 무료로 제공하는 아이템 사용
+- AssetStroe에서 무료로 제공하는 에셋 사용
   - [파티클]https://assetstore.unity.com/packages/vfx/particles/fire-explosions/procedural-fire-141496
+  - [캐릭터]
+
+- Unity Survival Shooter Tutorial 사용
+  - [플레이어 캐릭터 및 애니메이션]https://learn.unity.com/project/survival-shooter-tutorial?language=en
