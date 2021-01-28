@@ -61,4 +61,6 @@ StoneMonster는 불을 내뿜으면서 달려들고 ZomBunny는 달려들기만 
   - [스폰지역에서 몬스터가 계속 나오도록 설정](https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/spawn_monster.cs)
   - [보스몬스터 공격](https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/spider_shot.cs)
     - 위, 아래에서 총알이 나가도록 설정
-  - [테스트 한다고 만들었던 코드]https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/UI.cs , https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/target_move.cs
+  - [테스트 한다고 만들었던 코드]
+    - https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/UI.cs 
+    - https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/target_move.cs
