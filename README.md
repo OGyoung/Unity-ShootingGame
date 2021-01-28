@@ -29,5 +29,6 @@
 - Unity Survival Shooter Tutorial 사용
   - [플레이어 캐릭터 및 애니메이션][몬스터]https://learn.unity.com/project/survival-shooter-tutorial?language=en
 
-## 코드
-[보스몬스터 체력]https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/BossHealth.cs 
+## 작성한 코드
+- [code]
+  - [보스몬스터 체력]https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/BossHealth.cs 
