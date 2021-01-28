@@ -32,8 +32,10 @@
 ## 작성한 코드
 - [code](https://github.com/OGyoung/Unity-ShootingGame/tree/main/Assets/coding)
   - [보스몬스터 체력](https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/BossHealth.cs)
+    - 체력이 줄 때마다 타격 소리가 나고 체력이 0아래로 떨어지면 승리 장면으로 전환
   - [보스 및 플레이어 총알 자동삭제](https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/Destroy_Self.cs)
   - [패배 시 장면전환](https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/Lose_scene.cs)
-    - 클릭 시 첫화면으로 돌아가서 다시 
-  
+    - 클릭 시 첫화면으로 돌아가서 다시 플레이 할 수 있도록 설정
+  - [몬스터 체력](https://github.com/OGyoung/Unity-ShootingGame/blob/main/Assets/coding/MonsterHealth.cs)
+    - 체력 0이 되면 소리나면서 시체가 없어지도록 설정
   
