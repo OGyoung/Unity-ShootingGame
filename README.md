@@ -22,7 +22,9 @@
 ## 사용한 자료
 - AssetStroe에서 무료로 제공하는 에셋 사용
   - [파티클]https://assetstore.unity.com/packages/vfx/particles/fire-explosions/procedural-fire-141496
-  - [캐릭터]
+  - [몬스터]https://assetstore.unity.com/packages/3d/characters/stone-monster-101433
+  - [보스]https://assetstore.unity.com/packages/3d/characters/animals/insects/spider-green-11869
+  - [기둥]https://assetstore.unity.com/packages/3d/props/feline-gargoyle-27106
 
 - Unity Survival Shooter Tutorial 사용
-  - [플레이어 캐릭터 및 애니메이션]https://learn.unity.com/project/survival-shooter-tutorial?language=en
+  - [플레이어 캐릭터 및 애니메이션][몬스터]https://learn.unity.com/project/survival-shooter-tutorial?language=en
