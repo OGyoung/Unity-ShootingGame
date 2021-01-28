@@ -8,4 +8,4 @@
 ![패배](https://user-images.githubusercontent.com/52282493/106029251-3dd9ff80-6110-11eb-9794-58a8b38fde43.gif)
 
 ## 조작법
-이동: > wasd > ↑↓→←
+이동: wasd , ↑↓→←
